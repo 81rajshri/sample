@@ -1,0 +1,14 @@
+C:\Assignment C#\4.practical\bin\Debug\net10.0\4.practical.exe
+C:\Assignment C#\4.practical\bin\Debug\net10.0\4.practical.deps.json
+C:\Assignment C#\4.practical\bin\Debug\net10.0\4.practical.runtimeconfig.json
+C:\Assignment C#\4.practical\bin\Debug\net10.0\4.practical.dll
+C:\Assignment C#\4.practical\bin\Debug\net10.0\4.practical.pdb
+C:\Assignment C#\4.practical\obj\Debug\net10.0\4.practical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignment C#\4.practical\obj\Debug\net10.0\4.practical.AssemblyInfoInputs.cache
+C:\Assignment C#\4.practical\obj\Debug\net10.0\4.practical.AssemblyInfo.cs
+C:\Assignment C#\4.practical\obj\Debug\net10.0\4.practical.csproj.CoreCompileInputs.cache
+C:\Assignment C#\4.practical\obj\Debug\net10.0\4.practical.dll
+C:\Assignment C#\4.practical\obj\Debug\net10.0\refint\4.practical.dll
+C:\Assignment C#\4.practical\obj\Debug\net10.0\4.practical.pdb
+C:\Assignment C#\4.practical\obj\Debug\net10.0\4.practical.genruntimeconfig.cache
+C:\Assignment C#\4.practical\obj\Debug\net10.0\ref\4.practical.dll

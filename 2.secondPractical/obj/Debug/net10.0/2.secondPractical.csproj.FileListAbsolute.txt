@@ -1,0 +1,14 @@
+C:\Assignment C#\2.secondPractical\bin\Debug\net10.0\2.secondPractical.exe
+C:\Assignment C#\2.secondPractical\bin\Debug\net10.0\2.secondPractical.deps.json
+C:\Assignment C#\2.secondPractical\bin\Debug\net10.0\2.secondPractical.runtimeconfig.json
+C:\Assignment C#\2.secondPractical\bin\Debug\net10.0\2.secondPractical.dll
+C:\Assignment C#\2.secondPractical\bin\Debug\net10.0\2.secondPractical.pdb
+C:\Assignment C#\2.secondPractical\obj\Debug\net10.0\2.secondPractical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignment C#\2.secondPractical\obj\Debug\net10.0\2.secondPractical.AssemblyInfoInputs.cache
+C:\Assignment C#\2.secondPractical\obj\Debug\net10.0\2.secondPractical.AssemblyInfo.cs
+C:\Assignment C#\2.secondPractical\obj\Debug\net10.0\2.secondPractical.csproj.CoreCompileInputs.cache
+C:\Assignment C#\2.secondPractical\obj\Debug\net10.0\2.secondPractical.dll
+C:\Assignment C#\2.secondPractical\obj\Debug\net10.0\refint\2.secondPractical.dll
+C:\Assignment C#\2.secondPractical\obj\Debug\net10.0\2.secondPractical.pdb
+C:\Assignment C#\2.secondPractical\obj\Debug\net10.0\2.secondPractical.genruntimeconfig.cache
+C:\Assignment C#\2.secondPractical\obj\Debug\net10.0\ref\2.secondPractical.dll
